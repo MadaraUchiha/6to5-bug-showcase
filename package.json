@@ -1,0 +1,7 @@
+{
+  "name": "6to5-bug-showcase",
+  "version": "0.0.1",
+  "dependencies": {
+    "6to5": "^2.11.4"
+  }
+}
